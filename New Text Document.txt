@@ -1,0 +1,12 @@
+INSERT INTO `order_items` (`item_id`, `order_id`, `product_id`, `product_name`, `product_price`, `product_image`) VALUES
+(3, 5, 2, 'Men DN 23XX', '2600.00', 'images/shoe-2.png'),
+(4, 6, 6, 'Women DN 23XX', '4100.00', 'images/shoe-6.png'),
+(5, 6, 7, 'Women DN 23XX', '3500.00', 'images/shoe-7.png'),
+(6, 6, 8, 'Men DN 23XX', '3400.00', 'images/shoe-8.png'),
+(7, 7, 5, 'Women DN 23XX', '3600.00', 'images/shoe-5.png');
+(8, 7, 5, 'Gaming PC Desktop Computer by Kepler Systems', '130000.00', 'images/gaming1.jpg');
+(9, 7, 5, 'Kuro RTX Gaming PC RGB', '144000.00', 'images/gaming2.jpg');
+(10,7, 5, 'Skytech Prism II Gaming PC Desktop', '163669.00', 'images/gaming3.jpg');
+(11,7, 5, 'Minecraft', '2695.00', 'images/gaming4.jpg');
+(12,7, 5, 'Forza Horaizon 4', '2480.00', 'images/gaming5.jpg');
+(13,7, 5, 'Resident Evil 4', '1899.00', 'images/gaming6.jpg');
